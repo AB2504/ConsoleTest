@@ -11,6 +11,8 @@ namespace ConsoleTest
 		static void Main(string[] args)
 		{
 			//1st change
+
+			int i = 123;
 		}
 	}
 }
